@@ -1,0 +1,29 @@
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\bin\Debug\netcoreapp3.0\Snake Multiplayer.exe
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\bin\Debug\netcoreapp3.0\Snake Multiplayer.deps.json
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\bin\Debug\netcoreapp3.0\Snake Multiplayer.runtimeconfig.json
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\bin\Debug\netcoreapp3.0\Snake Multiplayer.runtimeconfig.dev.json
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\bin\Debug\netcoreapp3.0\Snake Multiplayer.dll
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\bin\Debug\netcoreapp3.0\Snake Multiplayer.pdb
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\bin\Debug\netcoreapp3.0\Snake Multiplayer.Views.dll
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\bin\Debug\netcoreapp3.0\Snake Multiplayer.Views.pdb
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Snake Multiplayer.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\staticwebassets\Snake Multiplayer.StaticWebAssets.Manifest.cache
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\staticwebassets\Snake Multiplayer.StaticWebAssets.xml
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Snake Multiplayer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Snake Multiplayer.AssemblyInfoInputs.cache
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Snake Multiplayer.AssemblyInfo.cs
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Snake Multiplayer.RazorTargetAssemblyInfo.cache
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Snake Multiplayer.dll
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Snake Multiplayer.pdb
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Snake Multiplayer.csproj.CopyComplete
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Snake Multiplayer.RazorAssemblyInfo.cache
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Snake Multiplayer.RazorAssemblyInfo.cs
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Snake Multiplayer.TagHelpers.input.cache
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Snake Multiplayer.TagHelpers.output.cache
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Snake Multiplayer.RazorCoreGenerate.cache
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Snake Multiplayer.RazorTargetAssemblyInfo.cs
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Snake Multiplayer.Views.pdb
+C:\Users\Brandon\Desktop\School\.NET C#\Final_Project\Snake Multiplayer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
